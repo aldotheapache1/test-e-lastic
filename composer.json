@@ -1,0 +1,13 @@
+{
+    "name": "gian/rastreamento_objetos",
+    "description": "rastreio",
+    "authors": [
+        {
+            "name": "Gian Lucas",
+            "email": "gian15249@gmail.com"
+        }
+    ],
+    "require": {
+		"phpmailer/phpmailer" : "^6.2",
+	}
+}
